@@ -33,9 +33,6 @@ qq: python开发交流群 255012808
 
 ![image](https://github.com/triaquae/PerfectCRM/blob/master/share/screeshots/portal.png)
 
-####客户页面及在kingadmin里的配置
-
-![image](https://github.com/triaquae/PerfectCRM/blob/master/share/screeshots/crm课件.png)
 
 
 ####学员注册页
